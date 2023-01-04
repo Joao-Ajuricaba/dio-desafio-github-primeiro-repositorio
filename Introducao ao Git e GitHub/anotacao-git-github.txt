@@ -15,3 +15,6 @@ https://web.dio.me/course/git-e-github-focado-em-pullrequest/learning/7ee9e586-a
 4. Lab: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso 
 
 https://web.dio.me/project/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/a6e285fa-b9a0-4bc2-8353-7b729dabcf0c
+
+
+ Obrigadão pelas dicas vamos estudar Git/GitHub obrigado DIO 
